@@ -13,4 +13,3 @@ This project is a great way to explore key Python concepts, such as:
 - **Loops** for controlling the game flow and tracking guesses.  
 - **Functions** to break down tasks into manageable pieces of code.  
 - **Classes and Objects** to handle game logic and data cleanly.  
-- **File I/O** (optional) for reading words from an external file.  
